@@ -64,7 +64,14 @@ This data set comes under classification problem, as the input URL is classified
 <p align="center">
     <img alt="Block Diagram" src="./image/block.png" width="80%"/>
 </p>
+## Run
 
+- Clone this Repository: `git clone https://github.com/TanayBhadula/phishing-website-detection.git`
+- `cd phishing-website-detection/`
+- `pip3 install -r requirements.txt`
+- Now run, `python3 app.py`   
+- Then you will see the below screen, enter the URl in search to find if its legitimate or phishing.
+- 
 ## Implementation images
 <p align="center">
     <img alt="phishing images" src="./image/phishing.png" width="80%"/>
