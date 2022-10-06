@@ -1,0 +1,10 @@
+beautifulsoup4==4.11.1
+favicon==0.7.0
+Flask==2.2.2
+pandas==1.4.3
+protobuf==4.21.7
+regex==2022.9.13
+requests==2.25.1
+scikit_learn==1.1.2
+tldextract==3.4.0
+whois==0.9.16
