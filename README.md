@@ -64,8 +64,8 @@ This data set comes under classification problem, as the input URL is classified
 <p align="center">
     <img alt="Block Diagram" src="./image/block.png" width="80%"/>
 </p>
-## Run
 
+## Run
 - Clone this Repository: `git clone https://github.com/TanayBhadula/phishing-website-detection.git`
 - `cd phishing-website-detection/`
 - `pip3 install -r requirements.txt`
