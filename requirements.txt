@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+Flask==2.2.2
+pandas==1.4.3
+scikit_learn==1.1.2
+whois==0.9.16
